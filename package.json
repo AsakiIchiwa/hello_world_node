@@ -1,0 +1,27 @@
+{
+  "name": "nodehw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AsakiIchiwa/hello_world_node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AsakiIchiwa/hello_world_node/issues"
+  },
+  "homepage": "https://github.com/AsakiIchiwa/hello_world_node#readme",
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "express": "^5.1.0",
+    "figlet": "^1.9.3",
+    "nodemon": "^3.1.10"
+  }
+}
